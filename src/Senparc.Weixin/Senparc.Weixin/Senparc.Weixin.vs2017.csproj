@@ -349,7 +349,7 @@
     <None Remove="Tencent\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="Senparc.CO2NET" Version="1.0.102" />
     <PackageReference Include="Senparc.NeuChar" Version="1.0.102" />
   </ItemGroup>
